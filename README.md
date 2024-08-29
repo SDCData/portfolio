@@ -11,7 +11,7 @@
 - Creation of a sophisticated client billing model, leading to 40+ hours of manual labour saved per month. Encompased a suite of inputs to extract usable metrics from field operational data, utilising statistical techniques (identifying outliers, regression and standard deviations for different work types) to deploy an effective pricing model to the client. This process was then automated in excel, eliminating the need for manual billing practices across 500+ jobs per month.
 - Developed future business model profitability models, identified which work types most profitable and how to value add increasing company profit margins going forward.
 
-**Data Lead @ Leader Technologies & Cyber Security
+**Data Lead @ Leader Technologies & Cyber Security (2024-)
 - Customer target acquisition.
 - Responsible for sales lead potential and target identification.
 - Sales data analysis.
