@@ -1,4 +1,4 @@
-# Data Analyst
+# Simon De Campo - Data Analyst
 
 #### Technical Skills: Excel, SQL, Python, R, Power BI.
 
