@@ -17,15 +17,21 @@
 - Sales data analysis.
 - Cyber security performance analysis.
 
+// ** Business Intelligence & Management Dashboard Setup for multiple businesses - as part of Nexos Group (2024 -)
+-   Lead the consulting process to turn business ideas into dashboard reality for managers and business owners.
+-   Using Power BI and Microsoft Fabric Ecosystem, create pwoerful systems for real time business monitoring for business decision makers.
+-   End to end data solutions, creating applicable data pipelines to produce straightofrward, accurate and replicable analysis and dashboards.
+
 ### Projects
 - Chicago Bike Share Usage Analysis, utilising Python.
 -  Determine differing usage between system user types
--  Through a variety of pythona nalysis determined several avenues to further explore to convert casual users into better paying members of the bike share network.
+-  Through a variety of python analysis techniques I determined several avenues to further explore to convert casual users into better paying members of the bike share network.
 
-- Health Care Survey Resposne Data and Dashboard Formulation.
+- Health Care Survey Response Data and Dashboard Formulation.
 -   SQL used for data cleaning purposes, with cleaned data displayed on an interactive dashboard using Tableau.
 -   Based on hospital survey data to show the top hospital performances in terms of patient care.
 -   Utilisation of calcualted fields and a variety of interactive graphics for easy end user understanding and use.
+
 
 ### Completed Courses
 
